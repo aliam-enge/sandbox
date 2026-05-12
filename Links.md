@@ -2,6 +2,30 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 05:23 IR
+- 🎬 [[۱]__کنترل_دور_موتور_DC_با_میکروکنترلر_STM32__آشنایی_با_مساله_و_ورودی_خروجی‌های_موتور_DC.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B1%5D__%DA%A9%D9%86%D8%AA%D8%B1%D9%84_%D8%AF%D9%88%D8%B1_%D9%85%D9%88%D8%AA%D9%88%D8%B1_DC_%D8%A8%D8%A7_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C_%D8%A8%D8%A7_%D9%85%D8%B3%D8%A7%D9%84%D9%87_%D9%88_%D9%88%D8%B1%D9%88%D8%AF%DB%8C_%D8%AE%D8%B1%D9%88%D8%AC%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%85%D9%88%D8%AA%D9%88%D8%B1_DC.mp4) `35.9MB`
+
+- 🎬 [[۱۲]_دوره‌ی_آموزشی_میکروکنترلر_STM32__تولید_سیگنال_آنالوگ_با__PWM.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B1%DB%B2%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D8%AA%D9%88%D9%84%DB%8C%D8%AF_%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84_%D8%A2%D9%86%D8%A7%D9%84%D9%88%DA%AF_%D8%A8%D8%A7__PWM.mp4) `44.8MB`
+
+- 🎬 [[۱۳]_دوره‌ی_آموزشی_میکروکنترلر_STM32__آشنایی_با_مبدل‌های_آنالوگ_به_دیجیتال_(ADC).mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B1%DB%B3%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C_%D8%A8%D8%A7_%D9%85%D8%A8%D8%AF%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A2%D9%86%D8%A7%D9%84%D9%88%DA%AF_%D8%A8%D9%87_%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84_%28ADC%29.mp4) `54.2MB`
+
+- 🗜️ [[۱۴]_دوره‌ی_آموزشی_میکروکنترلر_STM32__راه‌اندازی_ADC_در_همه‌ی_حالت‌های_کاری.7z.001](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B1%DB%B4%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_ADC_%D8%AF%D8%B1_%D9%87%D9%85%D9%87%E2%80%8C%DB%8C_%D8%AD%D8%A7%D9%84%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%D8%A7%D8%B1%DB%8C.7z.001) `95.0MB`
+
+- 🗜️ [[۱۴]_دوره‌ی_آموزشی_میکروکنترلر_STM32__راه‌اندازی_ADC_در_همه‌ی_حالت‌های_کاری.7z.002](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B1%DB%B4%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_ADC_%D8%AF%D8%B1_%D9%87%D9%85%D9%87%E2%80%8C%DB%8C_%D8%AD%D8%A7%D9%84%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%A9%D8%A7%D8%B1%DB%8C.7z.002) `14.3MB`
+
+- 🎬 [[۱۵]_دوره‌ی_آموزشی_میکروکنترلر_STM32__راه‌اندازی_DAC_و_تولید_سیگنال_سینوسی،_مثلثی_و_نویز.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B1%DB%B5%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_DAC_%D9%88_%D8%AA%D9%88%D9%84%DB%8C%D8%AF_%D8%B3%DB%8C%DA%AF%D9%86%D8%A7%D9%84_%D8%B3%DB%8C%D9%86%D9%88%D8%B3%DB%8C%D8%8C_%D9%85%D8%AB%D9%84%D8%AB%DB%8C_%D9%88_%D9%86%D9%88%DB%8C%D8%B2.mp4) `60.0MB`
+
+- 🎬 [[۲]__کنترل_دور_موتور_DC_با_میکروکنترلر_STM32__خواندن_سرعت،_موقعیت_و_جهت_با_انکودر_افزایشی.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B2%5D__%DA%A9%D9%86%D8%AA%D8%B1%D9%84_%D8%AF%D9%88%D8%B1_%D9%85%D9%88%D8%AA%D9%88%D8%B1_DC_%D8%A8%D8%A7_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D8%AE%D9%88%D8%A7%D9%86%D8%AF%D9%86_%D8%B3%D8%B1%D8%B9%D8%AA%D8%8C_%D9%85%D9%88%D9%82%D8%B9%DB%8C%D8%AA_%D9%88_%D8%AC%D9%87%D8%AA_%D8%A8%D8%A7_%D8%A7%D9%86%DA%A9%D9%88%D8%AF%D8%B1_%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4%DB%8C.mp4) `61.7MB`
+
+- 🎬 [[۳]__کنترل_دور_موتور_DC_با_میکروکنترلر_STM32__پیاده‌سازی_کنترل‌کننده_P_و_PI.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B3%5D__%DA%A9%D9%86%D8%AA%D8%B1%D9%84_%D8%AF%D9%88%D8%B1_%D9%85%D9%88%D8%AA%D9%88%D8%B1_DC_%D8%A8%D8%A7_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D9%BE%DB%8C%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C_%DA%A9%D9%86%D8%AA%D8%B1%D9%84%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%D9%87_P_%D9%88_PI.mp4) `79.7MB`
+
+- 🎬 [مدیریت_حافظه_در_C__مقدمه‌ای_برای_مشکلات_و_راهکارها.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA_%D8%AD%D8%A7%D9%81%D8%B8%D9%87_%D8%AF%D8%B1_C__%D9%85%D9%82%D8%AF%D9%85%D9%87%E2%80%8C%D8%A7%DB%8C_%D8%A8%D8%B1%D8%A7%DB%8C_%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA_%D9%88_%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7.mp4) `49.0MB`
+
+- 🎬 [کنترل_نسخه_با_git__به_زبان_ساده.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%DA%A9%D9%86%D8%AA%D8%B1%D9%84_%D9%86%D8%B3%D8%AE%D9%87_%D8%A8%D8%A7_git__%D8%A8%D9%87_%D8%B2%D8%A8%D8%A7%D9%86_%D8%B3%D8%A7%D8%AF%D9%87.mp4) `62.1MB`
+
+---
+
+
 ### 📅 2026-05-12 05:10 IR
 - 🎬 [[دو_دقیقه‌ای]_تایمرها_در_میکروکنترلرهای_STM32_#stm32_#timer.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%D8%AF%D9%88_%D8%AF%D9%82%DB%8C%D9%82%D9%87%E2%80%8C%D8%A7%DB%8C%5D_%D8%AA%D8%A7%DB%8C%D9%85%D8%B1%D9%87%D8%A7_%D8%AF%D8%B1_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1%D9%87%D8%A7%DB%8C_STM32_%23stm32_%23timer.mp4) `2.9MB`
 
