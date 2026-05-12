@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 05:01 IR
+- 🎬 [[_]_دوره‌ی_آموزشی_میکروکنترلر_STM32__نصب_نرم_افزار_STM32CubeIDE_بدون_VPN.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B_%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D9%86%D8%B5%D8%A8_%D9%86%D8%B1%D9%85_%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_STM32CubeIDE_%D8%A8%D8%AF%D9%88%D9%86_VPN.mp4) `20.3MB`
+
+---
+
+
 ### 📅 2026-05-09 08:42 IR
 - 🎬 [Vikings___Ragnar_Lothbrok___Farewell.mp4](https://github.com/nscl5/sandbox/raw/main/dl/Vikings___Ragnar_Lothbrok___Farewell.mp4) `92.4MB`
 
