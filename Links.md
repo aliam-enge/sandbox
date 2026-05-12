@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 05:05 IR
+- 🗜️ [[۲۰]_دوره‌ی_آموزشی_میکروکنترلر_STM32__پیاده‌سازی_سخت_افزاری.7z.001](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B2%DB%B0%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D9%BE%DB%8C%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C_%D8%B3%D8%AE%D8%AA_%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%DB%8C.7z.001) `95.0MB`
+
+- 🗜️ [[۲۰]_دوره‌ی_آموزشی_میکروکنترلر_STM32__پیاده‌سازی_سخت_افزاری.7z.002](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B2%DB%B0%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D9%BE%DB%8C%D8%A7%D8%AF%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C_%D8%B3%D8%AE%D8%AA_%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%DB%8C.7z.002) `6.2MB`
+
+---
+
+
 ### 📅 2026-05-12 05:04 IR
 - 🎬 [[۳]_دوره‌ی_آموزشی_میکروکنترلر_STM32__مروری_بر_امکانات_مختلف_میکروکنترلرهای_STM32.mp4](https://github.com/aliam-enge/sandbox/raw/main/dl/%5B%DB%B3%5D_%D8%AF%D9%88%D8%B1%D9%87%E2%80%8C%DB%8C_%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1_STM32__%D9%85%D8%B1%D9%88%D8%B1%DB%8C_%D8%A8%D8%B1_%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA_%D9%85%D8%AE%D8%AA%D9%84%D9%81_%D9%85%DB%8C%DA%A9%D8%B1%D9%88%DA%A9%D9%86%D8%AA%D8%B1%D9%84%D8%B1%D9%87%D8%A7%DB%8C_STM32.mp4) `42.3MB`
 
